@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "USART.C": "cpp",
+        "mpu.h": "c",
+        "MPU.C": "cpp",
+        "lcd.h": "c",
+        "lcdfont.h": "c",
+        "SYN6288.C": "cpp",
+        "DMA.C": "cpp",
+        "ADC.C": "cpp",
+        "BTIM.C": "cpp",
+        "ATIM.C": "cpp",
+        "stm32h7xx_hal.h": "c",
+        "DAC.C": "cpp",
+        "KEY.C": "cpp",
+        "delay.h": "c",
+        "sys.h": "c",
+        "EXTI.C": "cpp",
+        "ESP01S.C": "cpp",
+        "dac.h": "c",
+        "stdlib.h": "c"
+    }
+}
