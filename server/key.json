@@ -1,0 +1,23 @@
+{
+    "cuid": "HFKM_MH",
+    "voice_technology": {
+        "API_KEY": "RQxLl2ZHhvUf91xrwKgG2NHF",
+        "SECRET_KEY": "WM6ltWP6sQLP1kLR82e5gmbgAyhPzQEn",
+        "refresh_token": "25.73d5e5ac8c3159ea4b087c79e5c3ba24.315360000.2014288576.282335-41881865",
+        "expires_in": 2592000,
+        "session_key": "9mzdWTk5PKbVHO2OatIZZvmdKAHZWdYQucPpFMQpD3KAWZ2BSrBHdQ8FZea3HKsv4KerOoFoMuvspoYapXniiX3I8gTChQ==",
+        "access_token": "24.bc746e28be5413d446782df577131372.2592000.1701520576.282335-41881865",
+        "scope": "audio_voice_assistant_get brain_enhanced_asr audio_tts_post brain_speech_realtime public brain_all_scope brain_asr_async wise_adapt lebo_resource_base lightservice_public hetu_basic lightcms_map_poi kaidian_kaidian ApsMisTest_Test权限 vis-classify_flower lpq_开放 cop_helloScope ApsMis_fangdi_permission smartapp_snsapi_base smartapp_mapp_dev_manage iop_autocar oauth_tp_app smartapp_smart_game_openapi oauth_sessionkey smartapp_swanid_verify smartapp_opensource_openapi smartapp_opensource_recapi fake_face_detect_开放Scope vis-ocr_虚拟人物助理 idl-video_虚拟人物助理 smartapp_component smartapp_search_plugin avatar_video_test b2b_tp_openapi b2b_tp_openapi_online smartapp_gov_aladin_to_xcx",
+        "session_secret": "61b531f9accfaca1321bc2353a68f131"
+    },
+    "large_scale_model": {
+        "API_KEY": "zw8VSWDKeuLWIN3wxoSkHKs3",
+        "SECRET_KEY": "o3mPB49eEEY0GHHae5ouCMQvHVHL95Qt",
+        "refresh_token": "25.f7ae0b6ece415e47a318c6d5fec87754.315360000.2014288576.282335-41888838",
+        "expires_in": 2592000,
+        "session_key": "9mzdWBQJ/18s00pLxbeCUbiKPChWP5PD8S+HKWE0TPQEvVatWLaQVVhjSSd8kYEVv5GKWTS4OqFlA3e/kEg5yXLGSdcRZA==",
+        "access_token": "24.cdfa8acaacebb4882af0fc7d27060034.2592000.1701520576.282335-41888838",
+        "scope": "public brain_all_scope ai_custom_yiyan_com ai_custom_yiyan_com_eb_instant wenxinworkshop_mgr ai_custom_yiyan_com_bloomz7b1 ai_custom_yiyan_com_emb_text ai_custom_yiyan_com_llama2_7b ai_custom_yiyan_com_llama2_13b ai_custom_yiyan_com_llama2_70b ai_custom_yiyan_com_chatglm2_6b_32k ai_custom_yiyan_com_aquilachat_7b ai_custom_yiyan_com_emb_bge_large_zh ai_custom_yiyan_com_emb_bge_large_en ai_custom_yiyan_com_qianfan_chinese_llama_2_7b ai_custom_qianfan_bloomz_7b_compressed ai_custom_yiyan_com_eb_pro ai_custom_yiyan_com_sd_xl wise_adapt lebo_resource_base lightservice_public hetu_basic lightcms_map_poi kaidian_kaidian ApsMisTest_Test权限 vis-classify_flower lpq_开放 cop_helloScope ApsMis_fangdi_permission smartapp_snsapi_base smartapp_mapp_dev_manage iop_autocar oauth_tp_app smartapp_smart_game_openapi oauth_sessionkey smartapp_swanid_verify smartapp_opensource_openapi smartapp_opensource_recapi fake_face_detect_开放Scope vis-ocr_虚拟人物助理 idl-video_虚拟人物助理 smartapp_component smartapp_search_plugin avatar_video_test b2b_tp_openapi b2b_tp_openapi_online smartapp_gov_aladin_to_xcx",
+        "session_secret": "89f7683920b4410dc1a6be4cdd5a667d"
+    }
+}
